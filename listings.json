@@ -1,0 +1,39 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/guidance/adab-of-dhikr.html",
+      "/quran/fatihah.html",
+      "/quran/ya-sin.html",
+      "/awrad/wird-al-aam.html",
+      "/awrad/taziyyah.html",
+      "/awrad/hasbunallah.html",
+      "/awrad/hizb-al-bahr.html",
+      "/awrad/latifiyyah.html",
+      "/awrad/mashishiyyah.html",
+      "/awrad/musabbaat.html",
+      "/dua/dua-after-dhikr.html",
+      "/appendix/dalail-al-khayrat/index.html",
+      "/appendix/asma-al-husna.html",
+      "/appendix/asma-an-nabi.html"
+    ]
+  },
+  {
+    "listing": "/appendix/dalail-al-khayrat/index.html",
+    "items": [
+      "/appendix/dalail-al-khayrat/opening-dua.html",
+      "/appendix/dalail-al-khayrat/dua-of-intention.html",
+      "/appendix/dalail-al-khayrat/names-of-allah.html",
+      "/appendix/dalail-al-khayrat/names-of-the-prophet.html",
+      "/appendix/dalail-al-khayrat/part-1.html",
+      "/appendix/dalail-al-khayrat/part-2.html",
+      "/appendix/dalail-al-khayrat/part-3.html",
+      "/appendix/dalail-al-khayrat/part-4.html",
+      "/appendix/dalail-al-khayrat/part-5.html",
+      "/appendix/dalail-al-khayrat/part-6.html",
+      "/appendix/dalail-al-khayrat/part-7.html",
+      "/appendix/dalail-al-khayrat/part-8.html",
+      "/appendix/dalail-al-khayrat/dua-of-completion.html"
+    ]
+  }
+]
